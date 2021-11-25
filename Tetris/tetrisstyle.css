@@ -1,0 +1,12 @@
+table,td{
+    border: 1px solid grey;
+    width: 450px;
+    height: 35px;
+    text-align: center
+}
+body{
+background-color: #363535;
+}
+#points{
+color: white;
+}
